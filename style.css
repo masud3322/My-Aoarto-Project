@@ -1,0 +1,3282 @@
+header#headtop {
+  overflow: hidden;
+
+}
+
+.logoname {
+  overflow: hidden;
+  width: 200px;
+  color: #fff;
+  padding: 28px;
+  display: inline;
+  float: left;
+}
+
+.logoname h1 {font-family: 'Noto Sans JP', sans-serif;font-size: 40px;display: inline;}
+
+.menu {
+  overflow: hidden;
+  width: 714px;
+  margin-left: 423px;
+  padding: 19px;
+}
+
+.menu11 {
+  overflow: hidden;
+  width: 405px;
+  display: inline;
+  float: left;
+}
+
+.menu11 ul {
+  list-style: none;
+}
+
+.menu11 ul li {
+  float: left;
+  padding: 10px;
+}
+
+.menu11 ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 12px;
+  transition: .3s;
+}
+
+.menu22 {
+  width: 308px;
+  float: right;
+  overflow: hidden;
+  padding:  20px 0px;
+}
+
+.menu11 ul li a i {
+  margin-left: 5px;
+}
+
+.menu22 button {
+  padding: 4px 13px;
+  border-radius: 24px;
+  border: none;
+  color: #191949;
+  background: #ef7484;
+  transition: .3s;
+}
+
+
+
+.menu22 button a {
+  color: #191937;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 600;
+  transition: .3s;
+}
+
+.menu22 button a i {
+  margin-left: 12px;
+  color: #ffffff;
+  background: #191937;
+  padding: 5px 8px;
+  border-radius: 50%;
+
+}
+
+
+
+.menu11 ul li a:hover {
+  color: #cbcbd0;
+}
+
+.menu22 button:hover {
+  background: #c15061;
+
+}
+
+.menu22 button:hover a {
+  color: #c3c1c1;
+}
+
+.headwrapper {
+  background: #2e2e5f;
+  overflow: hidden;
+}
+
+
+.dag {
+  overflow: hidden;
+  display: inline;
+  margin-left: 2px;
+  margin-right: 8px;
+
+  content: "";
+  color: white;
+  border: 1px solid white;
+}
+section#slide {
+  background: url(photos/glasgow-property-banner.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 356px;
+}
+.gradient {
+  background: linear-gradient(45deg, #191937, transparent);
+  height: 357px;
+}
+
+.container {
+  overflow: hidden;
+  width: 900px;
+  margin: auto;
+}
+.slideinfo {overflow: hidden;text-align: center;color: #ffffff;font-family: 'DM Sans', sans-serif;margin-top: 58px;}
+
+.slideinfo h1 {
+    font-size: 42px;
+    margin-top: 39px;
+}
+
+.slideinfo p {
+    font-size: 19px;
+    font-weight: unset;
+    margin-top: -17px;
+}
+
+.slidedesc {
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    width: 741px;
+    margin: auto;
+    margin-top: -34px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+section.bookconfidancebar {
+  background: #ef7484;
+  overflow: hidden;
+}
+
+.bookdesc {
+  text-align: center;
+  font-family: arial;
+  color: #191937;
+}
+
+.bookdesc p {
+  font-size: 17px;
+  font-weight: 900;
+}
+
+.bookdesc p a {
+  color: #191937;
+}
+.menu22 button:last-child {
+  background: none;
+  border: 1px solid white;
+  transition: .6s;
+  padding: 3px 16px;
+}
+
+.menu22 button:last-child a {
+  color: #ffffff;
+}
+
+.menu22 button:last-child:hover {
+  border: 1px solid #191941;
+
+}
+section#bookingbar {
+  background: #191937;
+  overflow: hidden;
+  height: 152px;
+ 
+}
+
+.bookingbarmenu {
+  overflow: hidden;
+  float: left;
+  width: 440px;
+  margin-top: 32px;
+  position: relative;
+}
+
+.bookingbarmenu ul {
+  list-style: none;
+  display: inline;
+
+}
+
+.bookingbarmenu ul li {
+  padding: 13px 9px;
+  float: left;
+}
+
+.bookingbarmenu ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: arial;
+  transition:.3s;
+  font-size: 14px;
+}
+
+.bookingbarmenu ul li a:hover   {
+  color: #8888f0;
+
+}
+.bookingbarmenu ul li:first-child a:hover {
+  color: #ef7484;
+}
+.bookingbarbutton\+desc {
+  width: 457px;
+  float: right;
+  margin-top: 25px;
+}
+
+.bokingbrdesc {
+  margin: auto;
+  width: 144px;
+  float: left;
+}
+
+.bookingbrbuttonbutton {
+  overflow: hidden;
+}
+
+.bookingbrbuttonbutton {
+  width: 307px;
+  float: right;
+}
+
+.bookingbrbuttonbutton button a {
+  text-decoration: none;
+}
+
+.bookingbrbuttonbutton button a i {
+  color: #ffffff;
+}
+
+.bookingbrbuttonbutton button:first-child {
+  background: none;
+  border: 1px solid #ffffff;
+  transition: .3s;
+  padding: 10px 21px;
+  border-radius: 18px;
+}
+
+.bookingbrbuttonbutton button:first-child a {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: monospace;
+
+}
+
+.bookingbrbuttonbutton button:first-child:hover {
+  border: 1px solid #2e2e5f;
+}
+
+.bookingbrbuttonbutton button:first-child a i {
+  margin-left: 12px;
+}
+
+.bookingbrbuttonbutton button:last-child {
+  background: #ef7484;
+  border: none;
+  margin-left: 1px;
+  padding: 8px 10px;
+  border-radius: 18px;
+  transition: .3s;
+}
+
+.bookingbrbuttonbutton button:last-child a {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: monospace;
+  margin-left: 9px;
+}
+
+.bookingbrbuttonbutton button:last-child a i {
+  margin-left: 12px;
+
+}
+
+.bokingbrdesc p {
+  color: #ffffff;
+  font-family: arial;
+}
+
+.bookingbrbuttonbutton button:last-child:hover {
+  background: #ef7484b5;
+}
+
+.bookingbrbuttonbutton button:last-child i {
+  border-radius: 26px;background: #191937;padding: 4px 7px 5px 7px;
+}
+section#service {
+  background: #ffffff;
+  height: 769px;
+}
+
+.serviceWrapper {
+  overflow: hidden;
+}
+
+.serviceTitle {
+  text-align: center;
+  color: #191937;
+  width: 758px;
+  margin: auto;
+  padding-top: 103px;
+}
+
+.serviceTitle h2 {
+  font-size: 38px;
+  font-family: arial;
+  font-weight: 800;
+  word-spacing: -5px;
+}
+
+.serviceMenu {
+  overflow: hidden;
+  column-count: 4;
+  margin-left: 114px;
+}
+
+.serviceSinglemenu {
+  overflow: hidden;
+  float: left;
+  width: 116px;
+  margin-right: 119px;
+  margin-top: 43px;
+
+}
+
+
+
+.serviceLogo {
+  font-size: 42px;
+  margin-left: 11px;
+}
+
+.serviceLogo a i {
+  color: #ffffff;
+  background: #191937;
+  border-radius: 100%;
+  padding: 30px 25px;
+}
+
+.serviceDesc {
+  font-size: 15px;
+  font-family: arial;
+  text-align: center;
+
+}
+
+.serviceDesc p {
+  color: #191937;
+}
+.serviceTitle p {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: arial;
+
+  margin: auto;
+}
+.locaMenu {
+  background: #ffffff;
+  margin-top: -52px;
+ 
+  position: absolute;
+  width: 872px;
+  height: 97px;
+}
+
+.locaMenu ul {
+  list-style: none;
+  margin-top: 39px;
+}
+
+.locaMenu ul li {
+  float: left;
+}
+
+.locaMenu ul li a {
+  color: #191937;
+  font-family: arial;
+}
+.locaMenu ul li a i {
+  color: #191937;
+  margin-left: 8px;
+}
+.locaMenu ul li {
+  margin-left: 10px;
+}
+
+a#homelogofirst i:first-child {
+  background: #191937;
+  color: #ffff;
+  padding: 8px 12px;
+  border-radius: 100%;
+  font-size: 16px;
+  margin-top: -6px;
+}
+section#wantlearn {
+  background: #007bff82;
+  height: 136px;
+}
+
+.wantlearnWrapper {
+  overflow: hidden;
+  margin-top: 16px;
+}
+
+.wanrlearnlogo {
+  display: inline;
+  float: left;
+  margin-top: 10px;
+}
+
+.wantlearndesc {
+  color: #191937;
+  margin-top: 25px;
+  font-family: arial;
+}
+
+.wantlearndesc h2 {
+  font-size: 20px;
+  margin-bottom: -11px;
+  font-weight: 900;
+}
+
+.wantlearndesc p {
+  font-weight: 700;
+}
+
+.wantlearndesc p a {
+  color: #191937;
+  font-family: arial;
+}
+.gellaryWrapper {
+  overflow: hidden;
+  margin-top: 74px;
+}
+
+.gellaryPhoto {
+  overflow: hidden;
+  float: left;
+ 
+}
+
+.gellaryPhoto img {
+  width: 603px;
+  height: 525px;
+
+}
+
+
+.gellaryDesc {
+  overflow: hidden;
+  float: right;
+  background: #191935;
+  color: #ffffff;
+  width: 297px;
+  height: 526px;
+}
+
+.gellarydescTitle {
+  overflow: hidden;
+  width: 243px;
+  padding: 0px 10px;
+}
+
+.gellarydescTitle h2 {
+  color: #ffffff;
+  font-size: 43px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.gellarydescTitle p {
+  font-family: arial;
+}
+
+.gellaryHoverphoto {
+  overflow: hidden;
+  padding: 0px 12px;
+}
+
+.gellaryHoverphoto img {
+  width: 65px;
+  height: 61px;
+}
+
+.gellarydescMine {
+  background: #191937;
+  border: 1px solid #ffffff;
+  width: 407px;
+  height: 152px;
+  float: right;
+  margin-top: -195px;
+  margin-right: 13px;
+}
+
+.gellarydescmineLogo {
+  overflow: hidden;
+  float: left;
+  width: 88px;
+  margin: 53px 0px 0px 12px;
+}
+
+.gellarydescmineLogo i {
+  background: #ffffff;
+  color: #191937;
+  padding: 8px 10px;
+  border-radius: 100%;
+  font-size: 25px;
+  margin-left: 2px;
+  transition: .3s;
+}
+
+.gellarydescmineinfo {
+  width: 262px;
+  float: right;
+  color: #ffffff;
+  font-family: arial;
+  font-size: 13px;
+  font-weight: 500;
+  margin: 26px 8px 0px 0px;
+  line-height: 17px;
+  letter-spacing: .04em;
+}
+
+.gellarydescmineinfo:before {content: "";width: 0px;height: 75px;border: 1px solid white;background: white;display: inline-block;margin-left: -22px;margin-top: 12px;}
+
+.gellarydescmineinfo p {
+    margin-left: -1px;
+    margin-top: -81px;
+}
+section#Gellary {
+  background: #ffffff;
+  
+}
+
+
+
+.\34 roomdesc {
+  overflow: hidden;
+  margin-top: 44px;
+  margin-bottom: 44px;
+  text-align: center;
+}
+
+.\34 roomdesc h1 {
+  color: #191937;
+  font-size: 33px;
+  font-family: inherit;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.\34 roomdesc p {
+  color: #191937;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: inherit;
+}
+
+section#deposit {
+  overflow: hidden;
+  background: #ef7484;
+}
+
+.depositWrapper {
+  overflow: hidden;
+}
+
+.depoLogo {
+  float: left;
+  margin-top: 33px;
+}
+
+.depodesc {
+  text-align: center;
+  font-family: arial;
+  color: #191937;
+  padding: 17px 0px;
+}
+
+.depodesc h2 {
+  font-weight: 700;
+}
+
+.depodesc p {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.depodesc p a {
+  color: #191937;
+}
+
+section#academic {
+  background: #ffffff;
+}
+
+.academicWrapper {
+  overflow: hidden;
+  margin-top: 41px;
+}
+
+.academicTitle {
+  text-align: center;
+  color: #191937;
+  font-family: arial;
+}
+
+.academicTitle h1 {
+  font-size: 32px;
+  font-weight: bolder;
+}
+
+.academicTitle p {
+  font-size: 16px;
+  font-weight: 600;
+  width: 797px;
+  margin: auto;
+}
+
+.academicTitle p a {
+  color: #191937;
+}
+
+.academicButton {
+  overflow: hidden;
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+.academicButton button {
+  padding: 5px 16px;
+  background: #ffffff;
+  border-radius: 31px;
+  border: 1px solid #191937;
+}
+
+.academicButton button a {
+  color: #191937;
+  font-size: 19px;
+  font-family: arial;
+  text-decoration: none;
+}
+
+.academicButton button a i {
+  background: #191937;
+  color: #ffffff;
+  padding: 8px 8px;
+  border-radius: 100%;
+  margin-left: 8px;
+}
+
+.academicButton button:last-child {
+  background: #191937;
+  float: right;
+  border: none;
+  transition: .3s;
+}
+
+.academicButton button:last-child a {
+  color: #ffffff;
+}
+
+.academicButton button:last-child:hover {
+  background: #191937c2;
+}
+
+.academicButton button:nth-child(2) {
+  margin-left: 15px;
+}
+.gellarydescmineLogo i:hover 
+{
+    background: #8989af;
+}
+
+
+section#pricetable {
+  background: #ffffff;
+}
+
+.pricetableWrapper {
+  overflow: hidden;
+}
+
+.pricetablePhoto {
+  overflow: hidden;
+  float: left;
+}
+
+.pricetablePhoto img {
+  width: 612px;
+}
+
+.ptpBar {
+  overflow: hidden;
+  padding: 11px 3px;
+  background: #191937;
+}
+
+.ptpBar h3 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: 800;
+  float: left;
+}
+
+.ptpBar button {
+  padding: 8px 5px 8px 18px;
+  border-radius: 20px;
+  border: none;
+  background: #ef7484;
+  transition: .3s;
+}
+
+.ptpBar button a {
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  /* margin-right: 18px; */
+}
+
+.ptpBar button a i {
+  margin-left: 16px;
+  background: #191937;
+  border-radius: 100%;
+  padding: 6px 8px 6px 8px;
+  font-size: 22px;
+}
+
+.ptpBar button:first-child:hover {
+  background: #ef7484ab;
+  
+}
+
+.ptpBar button:last-child:hover {
+  border:1px solid #191937;
+}
+
+.ptpBar button:last-child {
+  background: #191937;
+  border: 1px solid #ffffff;
+  transition: 0.3s;
+}
+
+.ptpbButton {
+  margin-top: 7px;
+  float: right;
+  margin-right: 18px;
+}
+
+.ptpbTitle {
+  margin-left: 99px;
+}
+
+
+.pricetablePhoto p {
+    margin-top: -359px;
+    margin-bottom: 337px;
+    text-align: center;
+    background: black !important;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.ptpbTitle h3 b {
+    color: #ef7484;
+}
+
+.pricetableDesc {
+  overflow: hidden;
+}
+
+.ptdBoxA {
+  overflow: hidden;
+  background: #ef7484;
+}
+
+.ptdBoxA h3 {
+  color: #191937;
+  font-size: 15px;
+  font-family: inherit;
+  font-weight: 700;
+  margin-left: 14px;
+  margin-top: 17px;
+}
+
+.ptdBoxA p {
+  margin-left: 15px;
+  margin-bottom: 16px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.ptdBoxA p a {
+  /* text-decoration: none; */
+  color: black;
+}
+
+.ptdBoxA p:first-child {
+  color: white;
+}
+
+
+p#pA {
+  margin-bottom: -14px;
+  margin-top: -14px;
+}
+
+p#pB {
+  margin-bottom: -14px;
+}
+
+.ptdBoxB {
+  background: #30304B;
+  color: #ffffff;
+  margin-top: -6px;
+  height: 495px;
+}
+
+.ptdbbTitle {
+  padding: 5px 21px 4px 25px;
+}
+
+.ptdbbTitle h3 {
+  font-weight: 700;
+}
+
+.ptdbbTitle p {
+  font-size: 14px;
+}
+
+.ptdbbFatures {
+  margin: 0px 0px 0px 45px;
+  width: 165px;
+  margin-left: 53px;
+  display: flow-root;
+}
+
+.ptdbbfSingle p {
+  margin-left: 0px;
+}
+
+.ptdbbfSingle p a i {
+  margin-right: 11px;
+  color: #ffffffb3;
+}
+
+.ptdbbfSingle {
+  overflow: hidden;
+  width: 82px;
+  font-family: arial;
+  font-size: 12px;
+  float: left;
+  margin-top: 9px;
+}
+.ptdbbfSingle a {
+  float: left;
+  width: 4px;
+  color: #d8cece;
+  font-size: 17px;
+}
+
+.ptdbbMoredetels {
+  overflow: hidden;
+  margin-left: 30px;
+  /* margin-bottom: 51px; */
+}
+
+.ptdbbMoredetels h3 {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.ptdbbMoredetels p {
+  font-family: arial;
+  font-size: 12px;
+}
+.ptdbbfSingle p {
+  width: 72px;
+  float: left;
+  margin-left: 25px;
+  margin-top: -18px;
+}
+.ptdbbMoredetels p a i {
+  color: #ffffff;
+  font-size: 8px;
+  margin-right: 6px;
+  /* margin-top: -2px; */
+}
+header#headtop {
+  overflow: hidden;
+
+}
+
+.logoname {
+  overflow: hidden;
+  width: 200px;
+  color: #fff;
+  padding: 28px;
+  display: inline;
+  float: left;
+}
+
+.logoname h1 {font-family: 'Noto Sans JP', sans-serif;font-size: 40px;display: inline;}
+
+.menu {
+  overflow: hidden;
+  width: 714px;
+  margin-left: 423px;
+  padding: 19px;
+}
+
+.menu11 {
+  overflow: hidden;
+  width: 405px;
+  display: inline;
+  float: left;
+}
+
+.menu11 ul {
+  list-style: none;
+}
+
+.menu11 ul li {
+  float: left;
+  padding: 10px;
+}
+
+.menu11 ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 12px;
+  transition: .3s;
+}
+
+.menu22 {
+  width: 308px;
+  float: right;
+  overflow: hidden;
+  padding:  20px 0px;
+}
+
+.menu11 ul li a i {
+  margin-left: 5px;
+}
+
+.menu22 button {
+  padding: 4px 13px;
+  border-radius: 24px;
+  border: none;
+  color: #191949;
+  background: #ef7484;
+  transition: .3s;
+}
+
+
+
+.menu22 button a {
+  color: #191937;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 600;
+  transition: .3s;
+}
+
+.menu22 button a i {
+  margin-left: 12px;
+  color: #ffffff;
+  background: #191937;
+  padding: 5px 8px;
+  border-radius: 50%;
+
+}
+
+
+
+.menu11 ul li a:hover {
+  color: #cbcbd0;
+}
+
+.menu22 button:hover {
+  background: #c15061;
+
+}
+
+.menu22 button:hover a {
+  color: #c3c1c1;
+}
+
+.headwrapper {
+  background: #2e2e5f;
+  overflow: hidden;
+}
+
+
+.dag {
+  overflow: hidden;
+  display: inline;
+  margin-left: 2px;
+  margin-right: 8px;
+
+  content: "";
+  color: white;
+  border: 1px solid white;
+}
+section#slide {
+  background: url(photos/glasgow-property-banner.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 356px;
+}
+.gradient {
+  background: linear-gradient(45deg, #191937, transparent);
+  height: 357px;
+}
+
+.container {
+  overflow: hidden;
+  width: 900px;
+  margin: auto;
+}
+.slideinfo {overflow: hidden;text-align: center;color: #ffffff;font-family: 'DM Sans', sans-serif;margin-top: 58px;}
+
+.slideinfo h1 {
+    font-size: 42px;
+    margin-top: 39px;
+}
+
+.slideinfo p {
+    font-size: 19px;
+    font-weight: unset;
+    margin-top: -17px;
+}
+
+.slidedesc {
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    width: 741px;
+    margin: auto;
+    margin-top: -34px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+section.bookconfidancebar {
+  background: #ef7484;
+  overflow: hidden;
+}
+
+.bookdesc {
+  text-align: center;
+  font-family: arial;
+  color: #191937;
+}
+
+.bookdesc p {
+  font-size: 17px;
+  font-weight: 900;
+}
+
+.bookdesc p a {
+  color: #191937;
+}
+.menu22 button:last-child {
+  background: none;
+  border: 1px solid white;
+  transition: .6s;
+  padding: 3px 16px;
+}
+
+.menu22 button:last-child a {
+  color: #ffffff;
+}
+
+.menu22 button:last-child:hover {
+  border: 1px solid #191941;
+
+}
+section#bookingbar {
+  background: #191937;
+  overflow: hidden;
+  height: 152px;
+ 
+}
+
+.bookingbarmenu {
+  overflow: hidden;
+  float: left;
+  width: 440px;
+  margin-top: 32px;
+  position: relative;
+}
+
+.bookingbarmenu ul {
+  list-style: none;
+  display: inline;
+
+}
+
+.bookingbarmenu ul li {
+  padding: 13px 9px;
+  float: left;
+}
+
+.bookingbarmenu ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-family: arial;
+  transition:.3s;
+  font-size: 14px;
+}
+
+.bookingbarmenu ul li a:hover   {
+  color: #8888f0;
+
+}
+.bookingbarmenu ul li:first-child a:hover {
+  color: #ef7484;
+}
+.bookingbarbutton\+desc {
+  width: 457px;
+  float: right;
+  margin-top: 25px;
+}
+
+.bokingbrdesc {
+  margin: auto;
+  width: 144px;
+  float: left;
+}
+
+.bookingbrbuttonbutton {
+  overflow: hidden;
+}
+
+.bookingbrbuttonbutton {
+  width: 307px;
+  float: right;
+}
+
+.bookingbrbuttonbutton button a {
+  text-decoration: none;
+}
+
+.bookingbrbuttonbutton button a i {
+  color: #ffffff;
+}
+
+.bookingbrbuttonbutton button:first-child {
+  background: none;
+  border: 1px solid #ffffff;
+  transition: .3s;
+  padding: 10px 21px;
+  border-radius: 18px;
+}
+
+.bookingbrbuttonbutton button:first-child a {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: monospace;
+
+}
+
+.bookingbrbuttonbutton button:first-child:hover {
+  border: 1px solid #2e2e5f;
+}
+
+.bookingbrbuttonbutton button:first-child a i {
+  margin-left: 12px;
+}
+
+.bookingbrbuttonbutton button:last-child {
+  background: #ef7484;
+  border: none;
+  margin-left: 1px;
+  padding: 8px 10px;
+  border-radius: 18px;
+  transition: .3s;
+}
+
+.bookingbrbuttonbutton button:last-child a {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: monospace;
+  margin-left: 9px;
+}
+
+.bookingbrbuttonbutton button:last-child a i {
+  margin-left: 12px;
+
+}
+
+.bokingbrdesc p {
+  color: #ffffff;
+  font-family: arial;
+}
+
+.bookingbrbuttonbutton button:last-child:hover {
+  background: #ef7484b5;
+}
+
+.bookingbrbuttonbutton button:last-child i {
+  border-radius: 26px;background: #191937;padding: 4px 7px 5px 7px;
+}
+section#service {
+  background: #ffffff;
+  height: 769px;
+}
+
+.serviceWrapper {
+  overflow: hidden;
+}
+
+.serviceTitle {
+  text-align: center;
+  color: #191937;
+  width: 758px;
+  margin: auto;
+  padding-top: 103px;
+}
+
+.serviceTitle h2 {
+  font-size: 38px;
+  font-family: arial;
+  font-weight: 800;
+  word-spacing: -5px;
+}
+
+.serviceMenu {
+  overflow: hidden;
+  column-count: 4;
+  margin-left: 114px;
+}
+
+.serviceSinglemenu {
+  overflow: hidden;
+  float: left;
+  width: 116px;
+  margin-right: 119px;
+  margin-top: 43px;
+
+}
+
+
+
+.serviceLogo {
+  font-size: 42px;
+  margin-left: 11px;
+}
+
+.serviceLogo a i {
+  color: #ffffff;
+  background: #191937;
+  border-radius: 100%;
+  padding: 30px 25px;
+}
+
+.serviceDesc {
+  font-size: 15px;
+  font-family: arial;
+  text-align: center;
+
+}
+
+.serviceDesc p {
+  color: #191937;
+}
+.serviceTitle p {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: arial;
+
+  margin: auto;
+}
+.locaMenu {
+  background: #ffffff;
+  margin-top: -52px;
+ 
+  position: absolute;
+  width: 872px;
+  height: 97px;
+}
+
+.locaMenu ul {
+  list-style: none;
+  margin-top: 39px;
+}
+
+.locaMenu ul li {
+  float: left;
+}
+
+.locaMenu ul li a {
+  color: #191937;
+  font-family: arial;
+}
+.locaMenu ul li a i {
+  color: #191937;
+  margin-left: 8px;
+}
+.locaMenu ul li {
+  margin-left: 10px;
+}
+
+a#homelogofirst i:first-child {
+  background: #191937;
+  color: #ffff;
+  padding: 8px 12px;
+  border-radius: 100%;
+  font-size: 16px;
+  margin-top: -6px;
+}
+section#wantlearn {
+  background: #007bff82;
+  height: 136px;
+}
+
+.wantlearnWrapper {
+  overflow: hidden;
+  margin-top: 16px;
+}
+
+.wanrlearnlogo {
+  display: inline;
+  float: left;
+  margin-top: 10px;
+}
+
+.wantlearndesc {
+  color: #191937;
+  margin-top: 25px;
+  font-family: arial;
+}
+
+.wantlearndesc h2 {
+  font-size: 20px;
+  margin-bottom: -11px;
+  font-weight: 900;
+}
+
+.wantlearndesc p {
+  font-weight: 700;
+}
+
+.wantlearndesc p a {
+  color: #191937;
+  font-family: arial;
+}
+.gellaryWrapper {
+  overflow: hidden;
+  margin-top: 74px;
+}
+
+.gellaryPhoto {
+  overflow: hidden;
+  float: left;
+ 
+}
+
+.gellaryPhoto img {
+  width: 603px;
+  height: 525px;
+
+}
+
+
+.gellaryDesc {
+  overflow: hidden;
+  float: right;
+  background: #191935;
+  color: #ffffff;
+  width: 297px;
+  height: 526px;
+}
+
+.gellarydescTitle {
+  overflow: hidden;
+  width: 243px;
+  padding: 0px 10px;
+}
+
+.gellarydescTitle h2 {
+  color: #ffffff;
+  font-size: 43px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.gellarydescTitle p {
+  font-family: arial;
+}
+
+.gellaryHoverphoto {
+  overflow: hidden;
+  padding: 0px 12px;
+}
+
+.gellaryHoverphoto img {
+  width: 65px;
+  height: 61px;
+}
+
+.gellarydescMine {
+  background: #191937;
+  border: 1px solid #ffffff;
+  width: 407px;
+  height: 152px;
+  float: right;
+  margin-top: -195px;
+  margin-right: 13px;
+}
+
+.gellarydescmineLogo {
+  overflow: hidden;
+  float: left;
+  width: 88px;
+  margin: 53px 0px 0px 12px;
+}
+
+.gellarydescmineLogo i {
+  background: #ffffff;
+  color: #191937;
+  padding: 8px 10px;
+  border-radius: 100%;
+  font-size: 25px;
+  margin-left: 2px;
+  transition: .3s;
+}
+
+.gellarydescmineinfo {
+  width: 262px;
+  float: right;
+  color: #ffffff;
+  font-family: arial;
+  font-size: 13px;
+  font-weight: 500;
+  margin: 26px 8px 0px 0px;
+  line-height: 17px;
+  letter-spacing: .04em;
+}
+
+.gellarydescmineinfo:before {content: "";width: 0px;height: 75px;border: 1px solid white;background: white;display: inline-block;margin-left: -22px;margin-top: 12px;}
+
+.gellarydescmineinfo p {
+    margin-left: -1px;
+    margin-top: -81px;
+}
+section#Gellary {
+  background: #ffffff;
+  
+}
+
+
+
+.\34 roomdesc {
+  overflow: hidden;
+  margin-top: 44px;
+  margin-bottom: 44px;
+  text-align: center;
+}
+
+.\34 roomdesc h1 {
+  color: #191937;
+  font-size: 33px;
+  font-family: inherit;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.\34 roomdesc p {
+  color: #191937;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: inherit;
+}
+
+section#deposit {
+  overflow: hidden;
+  background: #ef7484;
+}
+
+.depositWrapper {
+  overflow: hidden;
+}
+
+.depoLogo {
+  float: left;
+  margin-top: 33px;
+}
+
+.depodesc {
+  text-align: center;
+  font-family: arial;
+  color: #191937;
+  padding: 17px 0px;
+}
+
+.depodesc h2 {
+  font-weight: 700;
+}
+
+.depodesc p {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.depodesc p a {
+  color: #191937;
+}
+
+section#academic {
+  background: #ffffff;
+}
+
+.academicWrapper {
+  overflow: hidden;
+  margin-top: 41px;
+}
+
+.academicTitle {
+  text-align: center;
+  color: #191937;
+  font-family: arial;
+}
+
+.academicTitle h1 {
+  font-size: 32px;
+  font-weight: bolder;
+}
+
+.academicTitle p {
+  font-size: 16px;
+  font-weight: 600;
+  width: 797px;
+  margin: auto;
+}
+
+.academicTitle p a {
+  color: #191937;
+}
+
+.academicButton {
+  overflow: hidden;
+  margin-top: 60px;
+  margin-bottom: 41px;
+}
+
+.academicButton button {
+  padding: 5px 16px;
+  background: #ffffff;
+  border-radius: 31px;
+  border: 1px solid #191937;
+}
+
+.academicButton button a {
+  color: #191937;
+  font-size: 19px;
+  font-family: arial;
+  text-decoration: none;
+}
+
+.academicButton button a i {
+  background: #191937;
+  color: #ffffff;
+  padding: 8px 8px;
+  border-radius: 100%;
+  margin-left: 8px;
+}
+
+.academicButton button:last-child {
+  background: #191937;
+  float: right;
+  border: none;
+  transition: .3s;
+}
+
+.academicButton button:last-child a {
+  color: #ffffff;
+}
+
+.academicButton button:last-child:hover {
+  background: #191937c2;
+}
+
+.academicButton button:nth-child(2) {
+  margin-left: 15px;
+}
+.gellarydescmineLogo i:hover 
+{
+    background: #8989af;
+}
+
+
+section#pricetable {
+  background: #ffffff;
+}
+
+.pricetableWrapper {
+  overflow: hidden;
+}
+
+.pricetablePhoto {
+  overflow: hidden;
+  float: left;
+  margin-top: 33px;
+}
+
+.pricetablePhoto img {
+  width: 612px;
+}
+
+.ptpBar {
+  overflow: hidden;
+  padding: 11px 3px;
+  background: #191937;
+}
+
+.ptpBar h3 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: 800;
+  float: left;
+}
+
+.ptpBar button {
+  padding: 8px 5px 8px 18px;
+  border-radius: 20px;
+  border: none;
+  background: #ef7484;
+  transition: .3s;
+}
+
+.ptpBar button a {
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  /* margin-right: 18px; */
+}
+
+.ptpBar button a i {
+  margin-left: 16px;
+  background: #191937;
+  border-radius: 100%;
+  padding: 6px 8px 6px 8px;
+  font-size: 22px;
+}
+
+.ptpBar button:first-child:hover {
+  background: #ef7484ab;
+  
+}
+
+.ptpBar button:last-child:hover {
+  border:1px solid #191937;
+}
+
+.ptpBar button:last-child {
+  background: #191937;
+  border: 1px solid #ffffff;
+  transition: 0.3s;
+}
+
+.ptpbButton {
+  margin-top: 7px;
+  float: right;
+  margin-right: 18px;
+}
+
+.ptpbTitle {
+  margin-left: 99px;
+}
+
+
+.pricetablePhoto p {
+    margin-top: -359px;
+    margin-bottom: 337px;
+    text-align: center;
+    background: black !important;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.ptpbTitle h3 b {
+    color: #ef7484;
+}
+
+.pricetableDesc {
+  overflow: hidden;
+}
+
+.ptdBoxA {
+  overflow: hidden;
+  background: #ef7484;
+}
+
+.ptdBoxA h3 {
+  color: #191937;
+  font-size: 15px;
+  font-family: inherit;
+  font-weight: 700;
+  margin-left: 14px;
+  margin-top: 17px;
+}
+
+.ptdBoxA p {
+  margin-left: 15px;
+  margin-bottom: 16px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.ptdBoxA p a {
+  /* text-decoration: none; */
+  color: black;
+}
+
+.ptdBoxA p:first-child {
+  color: white;
+}
+
+
+p#pA {
+  margin-bottom: -14px;
+  margin-top: -14px;
+}
+
+p#pB {
+  margin-bottom: -14px;
+}
+
+.ptdBoxB {
+  background: #30304B;
+  color: #ffffff;
+  margin-top: -6px;
+  height: 518px;
+}
+
+.ptdbbTitle {
+  padding: 5px 21px 4px 25px;
+}
+
+.ptdbbTitle h3 {
+  font-weight: 700;
+}
+
+.ptdbbTitle p {
+  font-size: 14px;
+}
+
+.ptdbbFatures {
+  margin: 0px 0px 0px 45px;
+  width: 165px;
+  margin-left: 53px;
+  display: flow-root;
+}
+
+.ptdbbfSingle p {
+  margin-left: 0px;
+}
+
+.ptdbbfSingle p a i {
+  margin-right: 11px;
+  color: #ffffffb3;
+}
+
+.ptdbbfSingle {
+  overflow: hidden;
+  width: 82px;
+  font-family: arial;
+  font-size: 12px;
+  float: left;
+  margin-top: 9px;
+}
+.ptdbbfSingle a {
+  float: left;
+  width: 4px;
+  color: #d8cece;
+  font-size: 17px;
+}
+
+.ptdbbMoredetels {
+  overflow: hidden;
+  margin-left: 30px;
+  /* margin-bottom: 51px; */
+}
+
+.ptdbbMoredetels h3 {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.ptdbbMoredetels p {
+  font-family: arial;
+  font-size: 12px;
+}
+.ptdbbfSingle p {
+  width: 72px;
+  float: left;
+  margin-left: 25px;
+  margin-top: -18px;
+}
+.ptdbbMoredetels p a i {
+  color: #ffffff;
+  font-size: 8px;
+  margin-right: 6px;
+  /* margin-top: -2px; */
+}
+
+
+
+
+
+C
+
+
+section#pricetableC {
+  background: #ffffff;
+}
+
+.pricetableWrapperC {
+  overflow: hidden;
+}
+
+.pricetablePhotoC {
+  overflow: hidden;
+  float: left;
+}
+
+.pricetablePhotoC img {
+  width: 612px;
+  margin-top: 57px;
+}
+
+.ptpBarC {
+  overflow: hidden;
+  padding: 11px 3px;
+  background: #191937;
+}
+
+.ptpBarC h3 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: 800;
+  float: left;
+}
+
+.ptpBarC button {
+  padding: 8px 5px 8px 18px;
+  border-radius: 20px;
+  border: none;
+  background: #ef7484;
+  transition: .3s;
+}
+
+.ptpBarC button a {
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  /* margin-right: 18px; */
+}
+
+.ptpBarC button a i {
+  margin-left: 16px;
+  background: #191937;
+  border-radius: 100%;
+  padding: 6px 8px 6px 8px;
+  font-size: 22px;
+}
+
+.ptpBarC button:first-child:hover {
+  background: #ef7484ab;
+  
+}
+
+.ptpBarC button:last-child:hover {
+  border:1px solid #191937;
+}
+
+.ptpBarC button:last-child {
+  background: #191937;
+  border: 1px solid #ffffff;
+  transition: 0.3s;
+}
+
+.ptpbButtonC {
+  margin-top: 7px;
+  float: right;
+  margin-right: 18px;
+}
+
+.ptpbTitleC {
+  margin-left: 99px;
+}
+
+
+.pricetablePhotoC p {
+    margin-top: -359px;
+    margin-bottom: 337px;
+    text-align: center;
+    background: black !important;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.ptpbTitleC h3 b {
+    color: #ef7484;
+}
+
+.pricetableDescC {
+  overflow: hidden;
+}
+
+.ptdBoxAC {
+  overflow: hidden;
+  background: #ef7484;
+}
+
+.ptdBoxAC h3 {
+  color: #191937;
+  font-size: 15px;
+  font-family: inherit;
+  font-weight: 700;
+  margin-left: 14px;
+  margin-top: 17px;
+}
+
+.ptdBoxAC p {
+  margin-left: 15px;
+  margin-bottom: 16px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.ptdBoxAC p a {
+  /* text-decoration: none; */
+  color: black;
+}
+
+.ptdBoxAC p:first-child {
+  color: white;
+}
+
+
+p#pAC {
+  margin-bottom: -14px;
+  margin-top: -14px;
+}
+
+p#pBC {
+  margin-bottom: -14px;
+}
+
+.ptdBoxBC {
+  background: #30304B;
+  color: #ffffff;
+  /* margin-top: 0px; */
+  height: 646px;
+}
+
+.ptdbbTitleC {
+  padding: 22px 21px 4px 25px;
+}
+
+.ptdbbTitleC h3 {
+  font-weight: 700;
+}
+
+.ptdbbTitleC p {
+  font-size: 14px;
+}
+
+.ptdbbFaturesC {
+  margin: 0px 0px 0px 45px;
+  width: 165px;
+  margin-left: 53px;
+  display: flow-root;
+}
+
+.ptdbbfSingleC p {
+  margin-left: 0px;
+}
+
+.ptdbbfSingleC p a i {
+  margin-right: 11px;
+  color: #ffffffb3;
+}
+
+.ptdbbfSingleC {
+  overflow: hidden;
+  width: 82px;
+  font-family: arial;
+  font-size: 12px;
+  float: left;
+  margin-top: 9px;
+}
+.ptdbbfSingleC a {
+  float: left;
+  width: 4px;
+  color: #d8cece;
+  font-size: 17px;
+}
+
+.ptdbbMoredetelsC {
+  overflow: hidden;
+  margin-left: 30px;
+  /* margin-bottom: 51px; */
+}
+
+.ptdbbMoredetelsC h3 {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.ptdbbMoredetelsC p {
+  font-family: arial;
+  font-size: 12px;
+}
+.ptdbbfSingleC p {
+  width: 72px;
+  float: left;
+  margin-left: 25px;
+  margin-top: -18px;
+}
+.ptdbbMoredetelsC p a i {
+  color: #ffffff;
+  font-size: 8px;
+  margin-right: 6px;
+
+}
+
+
+
+
+
+
+
+b
+
+
+section#pricetableB {
+  background: #ffffff;
+}
+
+.pricetableWrapperB {
+  overflow: hidden;
+}
+
+.pricetablePhotoB {
+  overflow: hidden;
+  float: right;
+}
+
+.pricetablePhotoB img {
+  width: 612px;
+  margin-top: 57px;
+}
+
+.ptpBarB {
+  overflow: hidden;
+  padding: 11px 3px;
+  background: #191937;
+}
+
+.ptpBarB h3 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: 800;
+  float: left;
+}
+
+.ptpBarB button {
+  padding: 8px 5px 8px 18px;
+  border-radius: 20px;
+  border: none;
+  background: #ef7484;
+  transition: .3s;
+}
+
+.ptpBarB button a {
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  /* margin-right: 18px; */
+}
+
+.ptpBarB button a i {
+  margin-left: 16px;
+  background: #191937;
+  border-radius: 100%;
+  padding: 6px 8px 6px 8px;
+  font-size: 22px;
+}
+
+.ptpBarB button:first-child:hover {
+  background: #ef7484ab;
+  
+}
+
+.ptpBarB button:last-child:hover {
+  border:1px solid #191937;
+}
+
+.ptpBarB button:last-child {
+  background: #191937;
+  border: 1px solid #ffffff;
+  transition: 0.3s;
+}
+
+.ptpbButtonB {
+  margin-top: 7px;
+  float: right;
+  margin-right: 18px;
+}
+
+.ptpbTitleB {
+  margin-left: 99px;
+}
+
+
+.pricetablePhotoB p {
+    margin-top: -359px;
+    margin-bottom: 337px;
+    text-align: center;
+    background: black !important;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.ptpbTitleB h3 b {
+    color: #ef7484;
+}
+
+.pricetableDescB {
+  overflow: hidden;
+}
+
+.ptdBoxAB {
+  overflow: hidden;
+  background: #ef7484;
+}
+
+.ptdBoxAB h3 {
+  color: #191937;
+  font-size: 15px;
+  font-family: inherit;
+  font-weight: 700;
+  margin-left: 14px;
+  margin-top: 17px;
+}
+
+.ptdBoxAB p {
+  margin-left: 15px;
+  margin-bottom: 16px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.ptdBoxAB p a {
+  /* text-decoration: none; */
+  color: black;
+}
+
+.ptdBoxAB p:first-child {
+  color: white;
+}
+
+
+p#pAB {
+  margin-bottom: -14px;
+  margin-top: -14px;
+}
+
+p#pBB {
+  margin-bottom: -14px;
+}
+
+.ptdBoxBB {
+  background: #30304B;
+  color: #ffffff;
+  /* margin-top: 0px; */
+  height: 646px;
+}
+
+.ptdbbTitleB {
+  padding: 22px 21px 4px 25px;
+}
+
+.ptdbbTitleB h3 {
+  font-weight: 700;
+}
+
+.ptdbbTitleB p {
+  font-size: 14px;
+}
+
+.ptdbbFaturesB {
+  margin: 0px 0px 0px 45px;
+  width: 165px;
+  margin-left: 53px;
+  display: flow-root;
+}
+
+.ptdbbfSingleB p {
+  margin-left: 0px;
+}
+
+.ptdbbfSingleB p a i {
+  margin-right: 11px;
+  color: #ffffffb3;
+}
+
+.ptdbbfSingleB {
+  overflow: hidden;
+  width: 82px;
+  font-family: arial;
+  font-size: 12px;
+  float: left;
+  margin-top: 9px;
+}
+.ptdbbfSingleB a {
+  float: left;
+  width: 4px;
+  color: #d8cece;
+  font-size: 17px;
+}
+
+.ptdbbMoredetelsB {
+  overflow: hidden;
+  margin-left: 30px;
+  /* margin-bottom: 51px; */
+}
+
+.ptdbbMoredetelsB h3 {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.ptdbbMoredetelsB p {
+  font-family: arial;
+  font-size: 12px;
+}
+.ptdbbfSingleB p {
+  width: 72px;
+  float: left;
+  margin-left: 25px;
+  margin-top: -18px;
+}
+.ptdbbMoredetelsB p a i {
+  color: #ffffff;
+  font-size: 8px;
+  margin-right: 6px;
+
+}
+
+
+
+
+
+
+
+
+D
+
+
+section#pricetableD {
+  background: #ffffff;
+}
+
+.pricetableWrapperD {
+  overflow: hidden;
+}
+
+.pricetablePhotoD {
+  overflow: hidden;
+  float: right;
+}
+
+.pricetablePhotoD img {
+  width: 612px;
+  margin-top: 57px;
+}
+
+.ptpBarD {
+  overflow: hidden;
+  padding: 11px 3px;
+  background: #191937;
+}
+
+.ptpBarD h3 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: 800;
+  float: left;
+}
+
+.ptpBarD button {
+  padding: 8px 5px 8px 18px;
+  border-radius: 20px;
+  border: none;
+  background: #ef7484;
+  transition: .3s;
+}
+
+.ptpBarD button a {
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  /* margin-right: 18px; */
+}
+
+.ptpBarD button a i {
+  margin-left: 16px;
+  background: #191937;
+  border-radius: 100%;
+  padding: 6px 8px 6px 8px;
+  font-size: 22px;
+}
+
+.ptpBarD button:first-child:hover {
+  background: #ef7484ab;
+  
+}
+
+.ptpBarD button:last-child:hover {
+  border:1px solid #191937;
+}
+
+.ptpBarD button:last-child {
+  background: #191937;
+  border: 1px solid #ffffff;
+  transition: 0.3s;
+}
+
+.ptpbButtonD {
+  margin-top: 7px;
+  float: right;
+  margin-right: 18px;
+}
+
+.ptpbTitleD {
+  margin-left: 99px;
+}
+
+
+.pricetablePhotoD p {
+    margin-top: -359px;
+    margin-bottom: 337px;
+    text-align: center;
+    background: black !important;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.ptpbTitleD h3 b {
+    color: #ef7484;
+}
+
+.pricetableDescD {
+  overflow: hidden;
+}
+
+.ptdBoxAD {
+  overflow: hidden;
+  background: #ef7484;
+}
+
+.ptdBoxAD h3 {
+  color: #191937;
+  font-size: 15px;
+  font-family: inherit;
+  font-weight: 700;
+  margin-left: 14px;
+  margin-top: 17px;
+}
+
+.ptdBoxAD p {
+  margin-left: 15px;
+  margin-bottom: 16px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.ptdBoxAD p a {
+  /* text-decoration: none; */
+  color: black;
+}
+
+.ptdBoxAD p:first-child {
+  color: white;
+}
+
+
+p#pAD {
+  margin-bottom: -14px;
+  margin-top: -14px;
+}
+
+p#pBD {
+  margin-bottom: -14px;
+}
+
+.ptdBoxBD {
+  background: #30304B;
+  color: #ffffff;
+  /* margin-top: 0px; */
+  height: 646px;
+}
+
+.ptdbbTitleD {
+  padding: 22px 21px 4px 25px;
+}
+
+.ptdbbTitleD h3 {
+  font-weight: 700;
+}
+
+.ptdbbTitleD p {
+  font-size: 14px;
+}
+
+.ptdbbFaturesD {
+  margin: 0px 0px 0px 45px;
+  width: 165px;
+  margin-left: 53px;
+  display: flow-root;
+}
+
+.ptdbbfSingleD p {
+  margin-left: 0px;
+}
+
+.ptdbbfSingleD p a i {
+  margin-right: 11px;
+  color: #ffffffb3;
+}
+
+.ptdbbfSingleD {
+  overflow: hidden;
+  width: 82px;
+  font-family: arial;
+  font-size: 12px;
+  float: left;
+  margin-top: 9px;
+}
+.ptdbbfSingleD a {
+  float: left;
+  width: 4px;
+  color: #d8cece;
+  font-size: 17px;
+}
+
+.ptdbbMoredetelsD {
+  overflow: hidden;
+  margin-left: 30px;
+  /* margin-bottom: 51px; */
+}
+
+.ptdbbMoredetelsD h3 {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.ptdbbMoredetelsD p {
+  font-family: arial;
+  font-size: 12px;
+}
+.ptdbbfSingleD p {
+  width: 72px;
+  float: left;
+  margin-left: 25px;
+  margin-top: -18px;
+}
+.ptdbbMoredetelsD p a i {
+  color: #ffffff;
+  font-size: 8px;
+  margin-right: 6px;
+
+}
+
+
+
+
+
+
+
+E
+
+
+section#pricetableE {
+  background: #ffffff;
+}
+
+.pricetableWrapperE {
+  overflow: hidden;
+}
+
+.pricetablePhotoE {
+  overflow: hidden;
+  float: left;
+}
+
+.pricetablePhotoE img {
+  width: 612px;
+  margin-top: 57px;
+}
+
+.ptpBarE {
+  overflow: hidden;
+  padding: 11px 3px;
+  background: #191937;
+}
+
+.ptpBarE h3 {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: inherit;
+  font-weight: 800;
+  float: left;
+}
+
+.ptpBarE button {
+  padding: 8px 5px 8px 18px;
+  border-radius: 20px;
+  border: none;
+  background: #ef7484;
+  transition: .3s;
+}
+
+.ptpBarE button a {
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: inherit;
+  /* margin-right: 18px; */
+}
+
+.ptpBarE button a i {
+  margin-left: 16px;
+  background: #191937;
+  border-radius: 100%;
+  padding: 6px 8px 6px 8px;
+  font-size: 22px;
+}
+
+.ptpBarE button:first-child:hover {
+  background: #ef7484ab;
+  
+}
+
+.ptpBarE button:last-child:hover {
+  border:1px solid #191937;
+}
+
+.ptpBarE button:last-child {
+  background: #191937;
+  border: 1px solid #ffffff;
+  transition: 0.3s;
+}
+
+.ptpbButtonE {
+  margin-top: 7px;
+  float: right;
+  margin-right: 18px;
+}
+
+.ptpbTitleE {
+  margin-left: 99px;
+}
+
+
+.pricetablePhotoE p {
+    margin-top: -359px;
+    margin-bottom: 337px;
+    text-align: center;
+    background: black !important;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.ptpbTitleE h3 b {
+    color: #ef7484;
+}
+
+.pricetableDescE {
+  overflow: hidden;
+}
+
+.ptdBoxAE {
+  overflow: hidden;
+  background: #ef7484;
+}
+
+.ptdBoxAE h3 {
+  color: #191937;
+  font-size: 15px;
+  font-family: inherit;
+  font-weight: 700;
+  margin-left: 14px;
+  margin-top: 17px;
+}
+
+.ptdBoxAE p {
+  margin-left: 15px;
+  margin-bottom: 16px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.ptdBoxAE p a {
+  /* text-decoration: none; */
+  color: black;
+}
+
+.ptdBoxAE p:first-child {
+  color: white;
+}
+
+
+p#pAE {
+  margin-bottom: -14px;
+  margin-top: -14px;
+}
+
+p#pBC {
+  margin-bottom: -14px;
+}
+
+.ptdBoxBE {
+  background: #30304B;
+  color: #ffffff;
+  /* margin-top: 0px; */
+  height: 646px;
+}
+
+.ptdbbTitleE {
+  padding: 22px 21px 4px 25px;
+}
+
+.ptdbbTitleE h3 {
+  font-weight: 700;
+}
+
+.ptdbbTitleE p {
+  font-size: 14px;
+}
+
+.ptdbbFaturesE {
+  margin: 0px 0px 0px 45px;
+  width: 165px;
+  margin-left: 53px;
+  display: flow-root;
+}
+
+.ptdbbfSingleE p {
+  margin-left: 0px;
+}
+
+.ptdbbfSingleE p a i {
+  margin-right: 11px;
+  color: #ffffffb3;
+}
+
+.ptdbbfSingleE {
+  overflow: hidden;
+  width: 82px;
+  font-family: arial;
+  font-size: 12px;
+  float: left;
+  margin-top: 9px;
+}
+.ptdbbfSingleE a {
+  float: left;
+  width: 4px;
+  color: #d8cece;
+  font-size: 17px;
+}
+
+.ptdbbMoredetelsE {
+  overflow: hidden;
+  margin-left: 30px;
+  /* margin-bottom: 51px; */
+}
+
+.ptdbbMoredetelsE h3 {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.ptdbbMoredetelsE p {
+  font-family: arial;
+  font-size: 12px;
+}
+.ptdbbfSingleE p {
+  width: 72px;
+  float: left;
+  margin-left: 25px;
+  margin-top: -18px;
+}
+.ptdbbMoredetelsE p a i {
+  color: #ffffff;
+  font-size: 8px;
+  margin-right: 6px;
+
+}
+
+section#pricetableE {
+  margin-bottom: 34px;
+}
+
+
+section#meetteam {
+  background: #ffffff;
+}
+
+.meetteamWrapper {
+  overflow: hidden;
+}
+
+.mtTitle {overflow: hidden;}
+
+.mtTitle h2 {
+  text-align: center;
+  font-size: 33px;
+  color: #191937;
+  font-family: inherit;
+  margin-top: 76px;
+  
+}
+
+.mtTitle p {
+  font-size: 16px;
+  text-align: center;
+  width: 555px;
+  margin-left: 197px;
+  color: #191937;
+  font-weight: 500;
+  font-family: arial;
+  margin-top: -8px;
+}
+
+.mtDesc {
+  overflow: hidden;
+  margin-top: 45px;
+  margin-bottom: 54px;
+}
+
+.mtdSingle {
+  overflow: hidden;
+  width: 216px;
+  float: left;
+  margin-left: 42px;
+  margin-right: 61px;
+}
+
+.mtdsImage {
+  width: 212px;
+}
+
+.mtdsImage img {
+  width: 188px;
+}
+
+.mtdsImfo {
+  width: 200px;
+}
+
+.mtdSingle:last-child {
+  margin-right: 0px;
+}
+
+.mtdsImfo p {
+  text-align: center;
+  font-size: 17px;
+  font-family: arial;
+  font-weight: 500;
+  width: 138px;
+  letter-spacing: .02em;
+  margin-left: 9px;
+  color: #191937c9;
+}
+
+
+
+section#location {
+  background: #ffffff;
+}
+
+.locationWrapper {
+  overflow: hidden;
+  margin-top: 65px;
+  margin-bottom: 96px;
+}
+
+.locationTitle {
+  text-align: center;
+  width: 770px;
+  margin-left: 65px;
+  color: #191937;
+  font-family: arial;
+  margin-bottom: 122px;
+}
+
+.locationTitle h2 {
+  font-size: 34px;
+}
+
+.locationTitle p {
+  letter-spacing: .002em;
+  font-size: 18px;
+}
+
+.locationDesc {
+  overflow: hidden;
+  width: 300px;
+  background: #191937;
+  float: left;
+}
+
+.ldTitle {
+  overflow: hidden;
+  color: #ffffff;
+  font-family: arial;
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom: 4px solid #ef7484;
+  border-top: 68px;
+  background: #ef7484;
+  height: 53px;
+}
+
+.ldTitle p:first-child {
+  /* background: #ef7484; */
+  width: 141px;
+  padding: 12px 5px;
+  float: left;
+  margin-top: 5px;
+}
+
+.ldTitle p:last-child {
+  background: #191937;
+  width: 132px;
+  float: right;
+  padding: 17px 8px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.ldSingle {
+  overflow: hidden;
+  width: 90px;
+  float: left;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.ldsLogo {
+  overflow: hidden;
+  font-size: 27px;
+  font-weight: bold;
+  width: 88px;
+  /* padding: 12px 52px; */
+  /* border-radius: 100%; */
+}
+
+.ldsLogo i {
+  color: white;
+  background: tomato;
+  padding: 20px 20px;
+  border-radius: 100%;
+  font-size: 37px;
+}
+
+.ldsName p {
+  color: white;
+  font-family: arial;
+  font-size: 12px;
+}
+
+.ldsName {
+  width: 92px;
+  text-align: center;
+}
+
+.ldSingle:last-child {
+  margin-left: 98px;
+  /* background: black; */
+}
+
+.ldSingle:last-child i {
+  background: #e83e8c;
+  transition: .3s;
+}
+
+.ldSingle:last-child i:hover {
+  background: #e83e8ca6;
+}
+
+.ldSingle:nth-child(2) i:hover {
+  background: #17a2b8ab;
+}
+
+.ldSingle:nth-child(2) i {
+  background: #17a2b8;
+  transition: .3s;
+}
+
+.ldSingle:nth-child(3) i {
+  background: #6f42c1;
+  transition: .3s;
+}
+
+.ldSingle:nth-child(3) i:hover {
+  background: #6f42c1c4;
+}
+
+.ldSingle:nth-child(4) i {
+  background: #ffc107;
+  transition: .3s;
+}
+
+.ldSingle:nth-child(4) i:hover {
+  background: #ffc107b3;
+}
+
+.ldSingle:nth-child(5) i {
+  background: #28a745;
+  transition: .3s;
+}
+
+.ldSingle:nth-child(5) i:hover {
+  background: #28a745bf;
+}
+
+.locationMap {
+  height: 476px;
+}
+
+
+
+.googleMap iframe {
+  height: 476px;
+}
+
+section#experince {
+  background: #191937;
+  margin-top: -139px;
+}
+
+.experinceWrapper {
+  overflow: hidden;
+  margin-top: 73px;
+}
+
+.experinceSingle {
+  overflow: hidden;
+  width: 200px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 119px;
+}
+
+.esPhoto img {
+  width: 200px;
+  overflow: hidden;
+  /* float: left; */
+}
+
+.espbutton img {
+  width: 44px;
+  margin-top: -72px;
+}
+
+.esPhoto {
+  overflow: hidden;
+  position: relative;
+}
+
+.espbutton {
+  margin-top: -100px;
+  position: absolute;
+ 
+}
+
+img#esbtnA {
+  transform: rotateY(180deg);
+  margin-left: 9px;
+}
+
+img#esbtnB {margin-left: 144px;}
+
+.experinceButton {
+  display: grid;
+  place-content: center;
+}
+
+.experinceButton button {
+  padding: 6px 6px 6px 37px;
+  border: none;
+  border-radius: 50px;
+  background: #ef7484;
+  transition: .3s;
+  margin-top: 58px;
+  margin-bottom: 100px;
+}
+
+.experinceButton button a{
+  color: #212529;
+  font-size: 20px;
+  font-family: arial;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+.experinceButton button a i {
+  font-size: 20px;
+  color: white;
+  padding: 12px 12px;
+  background: #191937;
+  border-radius: 100%;
+  margin-left: 15px;
+ 
+}
+
+.experinceButton button:hover {
+  background: #ef7484bd;
+}
+section#life {
+  background: #ffffff;
+}
+
+.lifeWrapper {
+  background: #191937;
+  border: 1px solid white;
+  position: relative;
+}
+
+.lwTitle {
+  width: 808px;
+  text-align: center;
+  color: white;
+  font-family: arial;
+  margin: auto;
+}
+
+.lwTitle h1 {
+  padding: 0px 0px 0px 0px;
+  font-size: 37px;
+ 
+}
+
+
+
+.lwTitle p {
+  padding: 0px 0px 39px 0px;
+  font-size: 19px;
+  margin-top: -13px;
+}
+
+
+.swSingle {
+  /* overflow: hidden; */
+  background: url(photos/contact-the-team2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 560px;
+  float: left;
+  height: 408px;
+}
+
+.swsLogo {
+  font-size: 39px;
+  text-align: center;
+  margin-top: 56px;
+  /* height: 231px; */
+}
+
+.swsLogo a i {
+  color: white;
+  background: #191937;
+  padding: 18px 18px;
+  border-radius: 100%;
+}
+
+.swsTitle {
+  text-align: center;
+  color: white;
+  /* margin-top: -179px; */
+  font-family: 'Poppins', sans-serif;
+}
+
+.swsTitle h1 {
+  font-size: 38px;
+  font-weight: 900;
+  margin-bottom: -7px;
+}
+
+.swsTitle p {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+
+.swsButton {
+  display: grid;
+  place-items: center;
+}
+
+.swsButton button {
+  background: #ef7484;
+  padding: 7px 9px 7px 37px;
+  border-radius: 26px;
+  border: none;
+  margin-top: 59px;
+  transition: .3s;
+}
+
+.swsButton button a {
+  text-decoration: none;
+  text-align: center;
+  color: #191937;
+  font-size: 20px;
+  font-weight: 800;
+  /* font-family: arial; */
+  font-family: 'Poppins', sans-serif;
+}
+
+.swsButton button a i {
+  color: white;
+  background: #191937;
+  padding: 9px 12px;
+  border-radius: 100%;
+  font-size: 20px;
+  margin-left: 8px;
+}
+
+.swsButton button:hover {
+  background: #ef7484d1;
+}
+
+
+.swSingleA {
+  background: url(photos/need-more-info.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 560px;
+  float: left;
+  height: 408px;
+ 
+}
+
+
+
+footer#Footer {
+  background: #191937;
+}
+
+.footerWrappper {
+  overflow: hidden;
+}
+
+.fwSingle {
+  width: 200px;
+  float: left;
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  margin-right: 22px;
+}
+
+.fwSingle h1 {
+  font-size: 23px;
+  text-align: center;
+  margin-top: 71px;
+}
+
+.fwSingle ul {
+  list-style: none;
+}
+
+.fwSingle ul li {
+  line-height: 29px;
+}
+
+.fwSingle ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: .3s;
+}
+
+.fwSingle ul li a:hover {
+  color: #d0d0ea54;
+}
+
+.fwsSocial a {
+  background: #191937;
+  padding: 8px 8px;
+  border-radius: 100%;
+  color: white;
+  font-size: 27px;
+  margin-left: 4px;
+  transition: .3s;
+}
+
+.fwsSocial {
+  margin-left: 10px;
+}
+
+.fwsimage img {
+  width: 112px;
+  margin-top: 35px;
+  margin-left: 19px;
+}
+
+.fwsSocial a:hover {
+  color: #ef7484;
+}
